@@ -25,6 +25,7 @@ public class Main {
 
     public Main()
     {
+        System.out.println("hello:");
         JFrame guiFrame = new JFrame();
         //make sure the program exits when the frame closes
         guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
